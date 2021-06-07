@@ -8,6 +8,8 @@ public class DemoApplication {
 
 	public static void main(String[] args) {
 		System.out.println("BIN changes");
+		System.out.println("BIN changes");
+		System.out.println("BIN changes");
 		SpringApplication.run(DemoApplication.class, args);
 		System.out.println("dfss changes");
 	}
