@@ -10,6 +10,7 @@ public class DemoApplication {
 		System.out.println("BIN changes");
 		System.out.println("BIN changes");
 		System.out.println("BIN changes");
+		System.out.println("BIN changes");
 		SpringApplication.run(DemoApplication.class, args);
 		System.out.println("dfss changes");
 	}
